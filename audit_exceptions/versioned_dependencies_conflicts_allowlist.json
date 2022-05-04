@@ -11,5 +11,6 @@
   "pyside",
   "pyside@2",
   "sqoop",
+  "swtpm",
   "watchman"
 ]
